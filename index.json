@@ -75,11 +75,11 @@
     {
       "name": "bamm",
       "file": "bamm.ma",
-      "thumb": null
+      "thumb": "bammThumb.gif"
     },
     {
       "name": "cake",
-      "file": "cakeppppppp.ma",
+      "file": "cake.ma",
       "thumb": "cakeThumb.gif"
     },
     {
