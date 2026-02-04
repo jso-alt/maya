@@ -1,0 +1,96 @@
+{
+  "model": [
+    {
+      "name": "4lights - Copy",
+      "file": "4lights.ma",
+      "thumb": null
+    },
+    {
+      "name": "4lights - Copy (10)",
+      "file": "4lights.ma",
+      "thumb": null
+    },
+    {
+      "name": "4lights - Copy (2)",
+      "file": "4lights.ma",
+      "thumb": null
+    },
+    {
+      "name": "4lights - Copy (3)",
+      "file": "4lights.ma",
+      "thumb": null
+    },
+    {
+      "name": "4lights - Copy (4)",
+      "file": "4lights.ma",
+      "thumb": null
+    },
+    {
+      "name": "4lights - Copy (5)",
+      "file": "4lights.ma",
+      "thumb": null
+    },
+    {
+      "name": "4lights - Copy (6)",
+      "file": "4lights.ma",
+      "thumb": null
+    },
+    {
+      "name": "4lights - Copy (7)",
+      "file": "4lights.ma",
+      "thumb": null
+    },
+    {
+      "name": "4lights - Copy (8)",
+      "file": "4lights.ma",
+      "thumb": null
+    },
+    {
+      "name": "4lights - Copy (9)",
+      "file": "4lights.ma",
+      "thumb": null
+    },
+    {
+      "name": "ball",
+      "file": "ball.ma",
+      "thumb": "ballthumb.png"
+    },
+    {
+      "name": "blackhole",
+      "file": "BlackHoleDomeLight.ma",
+      "thumb": null
+    },
+    {
+      "name": "chair",
+      "file": "chair.ma",
+      "thumb": "chairthumb.gif"
+    },
+    {
+      "name": "desk",
+      "file": "desk.ma",
+      "thumb": "deskthumb.gif"
+    }
+  ],
+  "material": [
+    {
+      "name": "bamm",
+      "file": "bamm.ma",
+      "thumb": null
+    },
+    {
+      "name": "bamm - Copy",
+      "file": "bamm.ma",
+      "thumb": null
+    },
+    {
+      "name": "checker",
+      "file": "checker.ma",
+      "thumb": "chairthumb.gif"
+    },
+    {
+      "name": "yom",
+      "file": "yom.ma",
+      "thumb": "yomthumb.gif"
+    }
+  ]
+}
